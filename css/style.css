@@ -78,6 +78,10 @@ body {
     background-color: #f05f40;
 }
 
+.block-divider--white {
+    background-color: white;
+}
+
 .block-divider--short {
     width: 35px;
 }
@@ -163,4 +167,9 @@ navbar {
 .btn--red:active:focus {
     background-color: #df4929;
     border-color: #df4929;
+}
+
+.feature {
+    text-align: center;
+    margin-bottom: 40px;
 }
